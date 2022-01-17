@@ -1,0 +1,129 @@
+body 
+{
+		
+	  font-family: 'Lato', sans-serif;
+      font-family: 'Pacifico', cursive;
+}
+
+.some 
+{
+	display:flex;
+	justify-content:space-between;
+	text-align: center;
+
+	height:100px;
+	background-color:#E7FFFF;
+	margin-left: auto;
+	margin-right: auto;
+    position: relative;
+	overflow: hidden;
+	
+}
+
+.icon
+{
+	position: left;
+	margin: 0px;
+	padding: 0px;	
+}
+
+#icon
+{ 
+    width:auto;
+	height:90%;
+}
+
+.menu
+{
+	
+	background-color:#E7FFF;
+	position:right;
+	height:66px;
+	width:275px;
+}
+
+input 
+{
+    border-radius: 10px;
+	font-family: 'Pacifico', cursive;
+	margin-top:20px;
+}
+
+#stars
+{
+    background-color:#FFFC4A;
+}
+
+#snow
+{
+	background-color:#7ECBFF;
+}
+
+#leaf
+{
+	background-color:#FF8521;
+}
+
+.content
+{
+	background: url(https://vignette.wikia.nocookie.net/hitlerparody/images/2/23/Snow-transparent.gif/revision/latest?cb=20151206121047);
+	background-color:#CBEEFF;
+	height:auto;
+	padding-bottom:10px;
+}
+
+#img 
+{
+	
+	height: 500px;
+	width: auto;
+	padding:0px;
+	margin:0px;
+	border:3px solid #F8F3F9;
+      border-radius: 3px;
+	
+}
+
+
+.block 
+{
+	
+	
+	display:flex;
+	justify-content:space-between;
+	height:500px;
+	width:auto;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:30px;
+	padding-right:30px;
+
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:5px
+}
+
+.block_image
+{
+	height: 500px;
+	width: auto;
+}
+
+#img:hover
+{
+	height: 510px;
+	width: auto;
+	border:3px solid #F8E3F8;
+      border-radius: 0px;
+}
+
+p 
+{
+	font-size: 20px;
+	padding-left:30px;
+	padding-right:30px;
+	margin-bottom:0px;
+	margin-top:0px;
+	padding-bottom:0;
+	padding-top:0;
+}
